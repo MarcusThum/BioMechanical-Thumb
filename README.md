@@ -1,4 +1,4 @@
 # **BioMechenical-Thumb**
 
-![](BioMechanical Thumb_Relaxed.png)
-![](BioMechanical Thumb.png)
+![](final/BioMechanical Thumb_Relaxed.png)
+![](final/BioMechanical Thumb.png)
