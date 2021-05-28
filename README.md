@@ -2,7 +2,7 @@
 https://drive.google.com/drive/folders/1eZKNXZl2MZ22a9SX9GnYOMj2R70lQMPq?usp=sharing
 
 # BOM Table
-> ![](BOM.pdf)
+https://github.com/MarcusThum/BioMechenical-Thumb/blob/main/BOM.pdf
 
 # BioMechenical-Thumb
 
