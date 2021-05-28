@@ -1,4 +1,4 @@
 # BioMechenical-Thumb
 
-> ![](final/BioMechanical_Thumb_Relaxed.png)
-> ![](final/BioMechanical_Thumb.png)
+> ![](BioMechanical_Thumb_Relaxed.png)
+> ![](BioMechanical_Thumb.png)
