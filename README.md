@@ -20,6 +20,9 @@
 > ![](Mechanical-Drawings/Drawings_Page_14.jpg)
 > ![](Mechanical-Drawings/Drawings_Page_15.jpg)
 
+# Mechanical Video
+https://drive.google.com/drive/folders/1eZKNXZl2MZ22a9SX9GnYOMj2R70lQMPq?usp=sharing
+
 # Mechanical Calculations
 
 > ![](Mechanical-Calculations/Trimmer_POT_vs_Encoder.jpg)
