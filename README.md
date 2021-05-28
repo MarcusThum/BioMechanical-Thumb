@@ -1,3 +1,6 @@
+# Mechanical Video
+https://drive.google.com/drive/folders/1eZKNXZl2MZ22a9SX9GnYOMj2R70lQMPq?usp=sharing
+
 # BioMechenical-Thumb
 
 > ![](BioMechanical_Thumb_Relaxed.png)
@@ -19,9 +22,6 @@
 > ![](Mechanical-Drawings/Drawings_Page_13.jpg)
 > ![](Mechanical-Drawings/Drawings_Page_14.jpg)
 > ![](Mechanical-Drawings/Drawings_Page_15.jpg)
-
-# Mechanical Video
-https://drive.google.com/drive/folders/1eZKNXZl2MZ22a9SX9GnYOMj2R70lQMPq?usp=sharing
 
 # Mechanical Calculations
 
