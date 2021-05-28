@@ -1,6 +1,6 @@
 # **ESI3001: Student Internship Programme**
 
-The initiation by SGH and Temasek Polytechnic in a joint venture to produce a working protype substitution of a thumb was valiant in it’s efforts. I was assigned on the project in the second-half of the Semester while I was still producing enough Samples for 300. Majority of the Project was followed up by the Major Year Project Team. The whole section of the Design, Mechanical and Source will be further elaborated in the results section. The housing should be sufficient to house the required mechanical components and motor. This allows for increased degree of freedom to replicate the movement of the Thumb around an axis. Additional pulley systems are needed to aid the grip of the Thumb.
+The initiation by Singapore General Hospital and Temasek Polytechnic in a joint venture to produce a working protype substitution of a thumb was valiant in it’s efforts. I was assigned on the project in the second-half of the Semester while I was still producing enough Samples for 300. Majority of the Project was followed up by the Major Year Project Team. The whole section of the Design, Mechanical and Source will be further elaborated in the results section. The housing should be sufficient to house the required mechanical components and motor. This allows for increased degree of freedom to replicate the movement of the Thumb around an axis. Additional pulley systems are needed to aid the grip of the Thumb.
 
 ## Mechanical Video
 
