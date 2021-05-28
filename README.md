@@ -4,7 +4,7 @@ https://drive.google.com/drive/folders/1eZKNXZl2MZ22a9SX9GnYOMj2R70lQMPq?usp=sha
 # BOM Table
 https://github.com/MarcusThum/BioMechenical-Thumb/blob/main/BOM.pdf
 
-# BioMechenical-Thumb
+# BioMechanical-Thumb
 
 > ![](BioMechanical_Thumb_Relaxed.png)
 > ![](BioMechanical_Thumb.png)
